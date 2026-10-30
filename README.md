@@ -1,4 +1,4 @@
-<h1 align="left">En caso de no vernos, Buenos Días, Buenas Tardes y Buenas noches</h1>
+<h1 align="left">Buenos Dias, Tardes y Noches</h1>
 
 ###
 
